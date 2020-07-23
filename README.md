@@ -1,5 +1,5 @@
 
-![cat](safe_image.gif)
+![cat](https://github.com/pjc0247/pjc0247/blob/master/safe_image.gif?raw=true)
 
 <!--
 **pjc0247/pjc0247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
